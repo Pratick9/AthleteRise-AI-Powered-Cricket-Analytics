@@ -1,0 +1,27 @@
+{
+    "Footwork": {
+        "score": 6,
+        "feedback": "Adjust front foot pointing for better footwork."
+    },
+    "Head Position": {
+        "score": 9,
+        "feedback": "Perfect head alignment over the front knee."
+    },
+    "Swing Control": {
+        "score": 5,
+        "feedback": "Improve front elbow lift to enhance swing control."
+    },
+    "Balance": {
+        "score": 5,
+        "feedback": "Excessive spine lean affecting balance."
+    },
+    "Follow-through": {
+        "score": 5,
+        "feedback": "Solid follow-through based on swing metrics."
+    },
+    "Skill Grade": "Beginner",
+    "Smoothness": {
+        "elbow_variance": 1326.6889693476999,
+        "comment": "Lower variance indicates smoother motion."
+    }
+}
